@@ -3,4 +3,4 @@ Demo Git
 
 # Building
 Run `npm install` and `npm run lint`
-This is cool!
+This is amazing and cool!
